@@ -35,6 +35,35 @@ const api = [
             options: ['Yes', 'No', 'Maybe']
         }
     },
+     {
+         id: 6,
+        body: {
+            question: "Would you like to profread records or forms?",
+            options: ['Yes', 'No', 'Maybe']
+        }
+    },
+     {
+         id: 7,
+        body: {
+            question: "Would you like to develop a spreadsheet using a computer software?",
+            options: ['Yes', 'No', 'Maybe']
+        }
+    },
+     {
+         id: 9,
+        body: {
+            question: "Do you enjoy installing software across computers on a large network?",
+            options: ['Yes', 'No', 'Maybe']
+        }
+    },
+     {
+         id: 11,
+        body: {
+            question: "Would you like to manage a department within a large company?",
+            options: ['Yes', 'No', 'Maybe']
+        }
+    },
+    
     {
         id: 10,
         body: {
